@@ -14,8 +14,8 @@
 
 ### Contact me via...
 
-<a href="https://keon-l.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-282828?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/keonl" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
+<a href="https://keonly.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-282828?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/keonly" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
 <a href="mailto:keonlee.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 
 <!--
